@@ -12,4 +12,5 @@ Login using following credentials:
 **Password**: Thor                
 
 or you may register using dummy credentials.      
+
 **Note**: Since, I have hosted frontend on a free static web hosting service, I request you to fork the repository to your local system and install dependecies and run it locally to test it's complete functionality. Just fork the frontend repo.  
