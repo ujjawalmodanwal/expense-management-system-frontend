@@ -47,7 +47,7 @@ function Table(props) {
 					"Authorization": `Bearer ${userInfo.token}`
 				}
 			}
-			await axios.put(`/api/cards/${props.cardData._id}`,{
+			await axios.put(`https://expense-management-system-backend.onrender.com/api/cards/${props.cardData._id}`,{
 				editedCard
 			}, config)
 		} catch (error) {
